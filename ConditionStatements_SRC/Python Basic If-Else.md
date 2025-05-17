@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/python-icon.png" height="25" width="25"></sub>Python Conditions and If Statements</h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/python-icon.png" height="25" width="25"></sub> Python Conditions and If Statements</h2>
 <h2>Python Basic If-Else</h2>
 
 <h4>1. WAP to prompt user to enter 2 numbers, Print the greater number among those 2 numbers.</h4>
