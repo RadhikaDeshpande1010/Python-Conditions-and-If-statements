@@ -77,3 +77,38 @@ Enter password: 1234
 Output:
 Access Granted!
 ```
+
+<h4> 4. Write a program to check if a number is divisible by 2, 3, and 5 simultaneously. </h4>
+
+```python
+number = int(input("Enter the number"))
+
+if number % 2 == 0 and number % 3 and 0 and number % 5 == 0:
+    print(f"{number} is divisible by 2, 3, and 5.")
+else:
+    print(f"{number} is not divisible by 2, 3, and 5.")
+
+User Input:
+Enter the number 30
+
+Output:
+30 is not divisible by 2, 3, and 5.
+```
+
+<h4> 5. Create a Python code that takes an integer `year` as input and returns `True` if the year is a leap year, and `False` otherwise. 
+A leap year is divisible by 4 but not by 100, unless it is also divisible by 400. </h4>
+
+```python
+year = int(input("Enter the year:"))
+
+if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
+    print(True)
+else:
+    print(False)
+
+User Input:
+Enter the year: 2020
+
+Output:
+True
+```
