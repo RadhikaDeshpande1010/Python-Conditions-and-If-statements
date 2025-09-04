@@ -16,7 +16,7 @@
 
 ## Directory Attributes
 
-### [Python Basic If-Else](https://github.com/RadhikaDeshpande1010/Python-Conditions-and-If-statements/blob/main/Conditional%20Statements_SRC/Python%20Basic%20If-Else.md)
+### [Python Basic If-Else](https://github.com/RadhikaDeshpande1010/Python-Conditions-and-If-statements/blob/main/ConditionStatements_SRC/Python%20Basic%20If-Else.md)
 This section introduces fundamental conditional statements, including:
 - if, else, and elif structures
 - Boolean expressions and comparison operators (==, !=, <, >, etc.)
