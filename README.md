@@ -5,9 +5,9 @@
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Directory Attributes](#Directory-Attributes)
-* [Python Basic If-Else](#Python-Basic-If-Else)
-* [Python Intermediate Conditional Logic](#Python-Intermediate-Conditional-Logic)
-* [Python Advanced Decision Structures](#Python-Advanced-Decision-Structures)
+* [Python Basic If-Else](#Python-If-Else:-Basic-Level)
+* [Python Intermediate Conditional Logic](#Python-If-Else:-Intermediate-Level)
+* [Python Advanced Decision Structures](#Python-If-Else:-Advance-Level)
 
 ## Introduction
 * Mastering conditional statements in Python is crucial for decision-making in programming. Conditions allow the code to react dynamically based on different inputs, making applications more flexible and efficient.
@@ -16,21 +16,21 @@
 
 ## Directory Attributes
 
-### [Python Basic If-Else](https://github.com/RadhikaDeshpande1010/Python-Conditions-and-If-statements/blob/main/ConditionStatements_SRC/Python%20Basic%20If-Else.md)
+### [Python If-Else: Basic Level](https://github.com/RadhikaDeshpande1010/Python-Conditions-and-If-statements/blob/main/ConditionStatements_SRC/Python%20Basic%20If-Else.md)
 This section introduces fundamental conditional statements, including:
 - if, else, and elif structures
 - Boolean expressions and comparison operators (==, !=, <, >, etc.)
 - Basic logical operations using conditions
 Ideal for beginners looking to understand how decision-making works in Python.
 
-<h4>Python Intermediate Conditional Logic</h4>
+### [Python If-Else: Intermediate Level] (https://github.com/RadhikaDeshpande1010/Python-Conditions-and-If-statements/blob/main/ConditionStatements_SRC/Python%20If-Else:%20Medium%20Level.md)
 Here, conditional logic expands to cover:
 - Logical operators (and, or, not) for complex conditions
 - Nested conditions for multi-step decision-making
 - Using conditions within loops and functions
 Perfect for those looking to refine their understanding of structured logic.
 
-<h4>Python Advanced Decision Structures</h4>
+<h4>Python If-Else: Advance Level</h4>
 Advanced techniques for efficient decision-making, including:
 - Ternary operators for concise conditional statements
 - Lambda expressions incorporating conditional logic
