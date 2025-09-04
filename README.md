@@ -23,7 +23,7 @@ This section introduces fundamental conditional statements, including:
 - Basic logical operations using conditions
 Ideal for beginners looking to understand how decision-making works in Python.
 
-### [Python If-Else: Intermediate Level] (https://github.com/RadhikaDeshpande1010/Python-Conditions-and-If-statements/blob/main/ConditionStatements_SRC/Python%20If-Else:%20Medium%20Level.md)
+### [Python If-Else: Intermediate Level](https://github.com/RadhikaDeshpande1010/Python-Conditions-and-If-statements/blob/main/ConditionStatements_SRC/Python%20If-Else:%20IntermediateLevel.md)
 Here, conditional logic expands to cover:
 - Logical operators (and, or, not) for complex conditions
 - Nested conditions for multi-step decision-making
