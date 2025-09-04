@@ -5,9 +5,9 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Directory Attributes](#directory-attributes)
-* [Python Basic If-Else](#python-if-else-basic-level)
-* [Python Intermediate Conditional Logic](#python-if-else-intermediate-level)
-* [Python Advanced Decision Structures](#python-if-else-advanced-level)
+* [Python If-Else: Basic Level](#python-if-else-basic-level)
+* [Python If-Else: Intermediate Level](#python-if-else-intermediate-level)
+* [Python If-Else: Advance Level](#python-if-else-advanced-level)
 
 ## Introduction
 * Mastering conditional statements in Python is crucial for decision-making in programming. Conditions allow the code to react dynamically based on different inputs, making applications more flexible and efficient.
@@ -16,7 +16,7 @@
 
 ## Directory Attributes
 
-### [Python If-Else: Basic Level](https://github.com/RadhikaDeshpande1010/Python-Conditions-and-If-statements/blob/main/ConditionStatements_SRC/Python%20Basic%20If-Else.md)
+### [Python If-Else: Basic Level](https://github.com/RadhikaDeshpande1010/Python-Conditions-and-If-statements/blob/main/ConditionStatements_SRC/Python%20If-Else%3A%20Basic%20Level.md)
 This section introduces fundamental conditional statements, including:
 - if, else, and elif structures
 - Boolean expressions and comparison operators (==, !=, <, >, etc.)
