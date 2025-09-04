@@ -1,5 +1,6 @@
-# Python Conditions and If Statements
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="25" width="25"></sub> Python Conditions and If Statements </h2>
 <img src="https://github.com/RadhikaDeshpande1010/Python-Conditions-and-If-statements/blob/main/If%20and%20Conditions.png">
+
 
 ## Table of Contents
 * [Introduction](#Introduction)
